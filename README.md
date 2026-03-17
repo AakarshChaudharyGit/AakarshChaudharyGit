@@ -1,47 +1,46 @@
 <!-- ================= HEADER ================= -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&center=true&vCenter=true&lines=Hi+I'm+Aakarsh+Chaudhary;AI+Engineer+in+Making;Data+Science+Student+at+IIT+Madras;Future+Tech+Leader+%7C+MBA+Aspirant;Building+Impactful+Tech+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&center=true&vCenter=true&lines=Hi+I'm+Aakarsh+Chaudhary;Data+Science+Student+at+IIT+Madras;Future+Tech+Leader;Building+Impactful+Tech+Solutions" />
 </h1>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212744270-7e6e5e1e-2f91-4d3c-b5c4-01d9c70906cb.gif" width="80%">
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212750695-1c6c52a5-4e6f-4f5e-b4f4-74d7a7f6fbb3.gif" width="100%">
+<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 
 <!-- ================= ABOUT ================= -->
 
-<img align="right" alt="coding" width="380" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h2>🧬 About Me</h2>
 
 <pre>
-Name: Aakarsh Chaudhary
-Role: AI + Software Engineering Enthusiast
+Hi 👋, I'm <b>Aakarsh Chaudhary</b><br>
+A passionate Developer and Analyst from India
 
-Education:
-- IIT Madras → BS Data Science
-- BTech CSE Student
 
-Interests:
-- Artificial Intelligence
-- Backend Systems
-- Data Analytics
-- Automation
+- 🔭 I’m currently pursuing a Bachelor’s degree in **Data Science and Computer Science from Indian Institute of Technology Madras**
+-🌱 I’m currently learning **dsa , backend development , automation**
+- 👯 I’m looking to collaborate with **tech-enthusiastic companies and developers to work on innovative projects.**
+- 💬 Ask me about **web development, Data analysis & representation , Automation, programming basics, and problem solving.**
+
 
 Vision:
 - Build Tech Products with Global Impact
-- Future MBA → Tech Leadership
+
+💡 Tip:
+- 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
 </pre>
 
 <hr>
 
-<h2 align="center">🌐 Professional Network</h2>
+<h2 align="center">🌐 Feel free to connect with me,</h2>
 
 <p align="center">
 <a href="https://linkedin.com/in/aakarsh-chaudhary-2006-cse">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="45"/>
 </a>
 <a href="https://www.hackerrank.com/@aakarshchaudhar3">
 <img src="https://skillicons.dev/icons?i=hackerrank" height="45"/>
