@@ -3,9 +3,6 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&center=true&vCenter=true&lines=Hi+I'm+Aakarsh+Chaudhary;Data+Science+Student+at+IIT+Madras;Future+Tech+Leader;Building+Impactful+Tech+Solutions" />
 </h1>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
-
 <!-- ================= ABOUT ================= -->
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
