@@ -4,10 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FFB3&center=true&vCenter=true&lines=Hi+I'm+Aakarsh+Chaudhary;Data+Science+Student+at+IIT+Madras;Future+Tech+Leader;Building+Impactful+Tech+Solutions" />
 </h1>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212744270-7e6e5e1e-2f91-4d3c-b5c4-01d9c70906cb.gif" width="80%">
-</p>
-
 <img src="https://i.imgur.com/dBaSKWF.gif" width="100%">
 
 <!-- ================= ABOUT ================= -->
