@@ -32,16 +32,13 @@ Vision:
 </pre>
 
 
-<h2 align="center">🌐 Feel free to connect with me,</h2>
+<h2 align="center">🌐 Feel free to connect with me</h2>
 
+<h3 align="left">🔗 Social:-</h3>
 <p align="center">
 
 <a href="https://linkedin.com/in/aakarsh-chaudhary-2006-cse">
 <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="45"/>
-</a>
-
-<a href="https://www.hackerrank.com/@aakarshchaudhar3">
-<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45"/>
 </a>
 
 <a href="mailto:aakarshchaudhary.90cse@gmail.com">
@@ -49,6 +46,16 @@ Vision:
 </a>
 
 </p>
+
+<h3 align="left">💻 Coding Profiles:</h3>
+<p align="center">
+
+<a href="https://www.hackerrank.com/@aakarshchaudhar3">
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45"/>
+</a>
+
+</p>
+
 
 <!---profile views--->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aakarshchaudharygit&label=Profile%20views&color=0e75b6&style=flat" alt="aakarshchaudharygit" /> </p>
