@@ -14,17 +14,21 @@ Hi 👋, I'm <b>Aakarsh Chaudhary</b><br>
 A passionate Developer and Analyst from India
 
 
-- 🔭 I’m currently pursuing a Bachelor’s degree in **Data Science and Computer Science from Indian Institute of Technology Madras**
--🌱 I’m currently learning **dsa , backend development , automation**
-- 👯 I’m looking to collaborate with **tech-enthusiastic companies and developers to work on innovative projects.**
-- 💬 Ask me about **web development, Data analysis & representation , Automation, programming basics, and problem solving.**
+- 🔭 I’m currently pursuing a Bachelor’s degree in **Data Science and
+       Computer Science from Indian Institute of Technology Madras**
+- 🌱 I’m currently learning **dsa , backend development , automation**
+- 👯 I’m looking to collaborate with **tech-enthusiastic companies
+       and developers to work on innovative projects.**
+- 💬 Ask me about **web development, Data analysis & representation,
+       Automation, programming basics, and problem solving.**
 
 
 Vision:
 - Build Tech Products with Global Impact
 
 💡 Tip:
-- 📗 If you're interested in collaborating or have any questions — I'd love to hear from you!
+- 📗 If you're interested in collaborating or have any questions —
+       I'd love to hear from you!
 </pre>
 
 <hr>
